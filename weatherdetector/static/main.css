@@ -1,0 +1,50 @@
+.background{
+    background-color: lightseagreen;
+    
+}
+
+.row{
+    margin-top: 300px;
+    margin-bottom: 0;
+}
+.search{
+    margin-top: -200px;
+    margin-left: 20px;
+}
+
+.text{
+    text-align: center;
+    color:white;
+    margin-top: 200px;
+    font-size: 50px;
+    background-color: rgb(46, 164, 79);
+    border:none;
+    font-weight: bold;
+}
+
+.words{
+    color:white;
+    margin-top:-400px;
+    text-align: center;
+    color:white;
+    background-color: rgb(46, 164, 79);
+    border:none;
+    font-weight: bold;
+    cursor: pointer;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 8px;
+    font-size: 15px;
+    margin-left: 10px;
+    transition: box-shadow 0.15s;
+    vertical-align: center;
+    font-size: 20px;
+}
+
+.button{
+    margin-top: -210px;
+    margin-left: 500px;
+}
+
